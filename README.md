@@ -4,7 +4,7 @@ AI graduate from **Khon Kaen University** (2026, GPA 3.55, Second-Class Honors) 
 **NLP, LLM applications and RAG**. I design systems, build them with AI-assisted coding,
 and verify the results.
 
-📍 Khon Kaen, Thailand · Open to NLP / AI Engineer roles (remote or hybrid)
+📍 Khon Kaen, Thailand · Open to NLP / AI Engineer roles
 
 ## Featured projects
 
